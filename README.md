@@ -1,3 +1,3 @@
 # ToDoListSwift
-trabalho de devweb apple
+trabalho de devmobile apple
 Trabalho que consiste em uma lista de to dos para aplicações ios feita em swift
